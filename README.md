@@ -1,6 +1,6 @@
 # CPE106L-4_E03_LAB7
 
-**Procedure:
+**Procedure:**
 Fork PE_5 directory
 Open Powershell
 Change directory to PE_5
